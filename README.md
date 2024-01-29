@@ -4,7 +4,7 @@
 </div>
 
 <div id="bio">
-  <h2>About Me</h2>
+  <h2>🙋‍♀️ About Me</h2>
   <ul>
     <li>✨ I'm a senior at Denison University (Biology and Data double major) and a photographer</li>
     <li>🌿I'm passionate about ecology - from data and photo perspectives</li>
@@ -28,4 +28,6 @@
     <li>Photography</li>
   </ul>
 </div>
+
+Thank you for visiting! 😃
 
