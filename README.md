@@ -1,29 +1,12 @@
 <div id="header" align="center">
-  <p> I'm interested in computational biology, especially the evolution and ecology of Mimulus.
+  <p> I'm Linh Nguyen, a Master student at the University of Kansas @ the Choi Lab (https://jychoilab.github.io/) </p>
 </div>
 
 <div id="bio">
-  <h2>🙋‍♀️ About Me</h2>
   <ul>
-    <li>I'm a Master student at University of Kansas @ Choi Lab</li>
-    <li>I'm passionate about plants (recently Mimulus) and telomere, from both data and photography perspectives</li>
+    <li>I'm passionate about plants (recently Arabidopsis thaliana and Mimulus) and telomere, from both data and photography perspectives.</li>
+    <li> I am proficient in Python, R/Rstudio, and Bash, and have extensive experience working with High Performance Computing (HPC) platforms.</li>
   </ul>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/linh-lynn-nguyen-khanh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div id="skills">
-  <h2>🫶 Skills</h2>
-  <ul>
-    <li>Computational Biology</li>
-    <li>Plant care</li>
-    <li>Photography</li>
-  </ul>
-</div>
-
-Thank you for visiting! 😃
-
+Feel free to connect at [my email](nguyen.linh.1010@ku.edu) and my [LinkedIn](https://www.linkedin.com/in/linh-lynn-nguyen-khanh/)!  
